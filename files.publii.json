@@ -1,0 +1,767 @@
+[
+    {
+        "path": "404.html",
+        "type": "file",
+        "md5": "2919586b6ebc77596526f1885be11be1"
+    },
+    {
+        "path": "acqua-di-parma-the-essence-of-italian-luxury-fragrance",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/acqua-di-parma-the-essence-of-italian-luxury-fragrance/index.html",
+        "type": "file",
+        "md5": "476594dfc07df8157f764dfb4133bb21"
+    },
+    {
+        "path": "assets",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/css",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/css/editor.css",
+        "type": "file",
+        "md5": "e5909a88ba1158a79ba2dbf82d6b2d86"
+    },
+    {
+        "path": "/assets/css/main.css",
+        "type": "file",
+        "md5": "0cdb59ef5ff45200c1fa7f118fea017e"
+    },
+    {
+        "path": "/assets/css/photoswipe.css",
+        "type": "file",
+        "md5": "366561c4c503c68e3af3389ac4d7fb8e"
+    },
+    {
+        "path": "/assets/css/style.css",
+        "type": "file",
+        "md5": "db8649ed47c6ff1626cbe40d1e0db2db"
+    },
+    {
+        "path": "assets/dynamic",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/js",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/js/photoswipe-ui-default.min.js",
+        "type": "file",
+        "md5": "d067f0883540b1ddda0e2c9ad1b14260"
+    },
+    {
+        "path": "/assets/js/photoswipe.min.js",
+        "type": "file",
+        "md5": "017385b552f7e0d979e2e2fe6f324015"
+    },
+    {
+        "path": "/assets/js/scripts.js",
+        "type": "file",
+        "md5": "e9e5c3efbaa696d1490988cf5b30e23b"
+    },
+    {
+        "path": "/assets/js/scripts.min.js",
+        "type": "file",
+        "md5": "ffcbea6c02c8178d10092962b235a5b0"
+    },
+    {
+        "path": "/assets/js/svg-fix.js",
+        "type": "file",
+        "md5": "7c0d2bb7276904b382e80bf2d85e8a96"
+    },
+    {
+        "path": "/assets/js/svg-map.js",
+        "type": "file",
+        "md5": "f0c119fe4ab4e9bba79dea32d15e32df"
+    },
+    {
+        "path": "assets/svg",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/svg/gallery-icons-dark.svg",
+        "type": "file",
+        "md5": "0c70735af58190b563b2940b7a07007a"
+    },
+    {
+        "path": "/assets/svg/gallery-icons-light.svg",
+        "type": "file",
+        "md5": "0bb1f41e2e459d23628833c37d8532f0"
+    },
+    {
+        "path": "/assets/svg/svg-map.svg",
+        "type": "file",
+        "md5": "cf04dfd5c3cc64e0be44692fe7d976a6"
+    },
+    {
+        "path": "authors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/elizabeth-davis",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/elizabeth-davis/index.html",
+        "type": "file",
+        "md5": "40461b331a3e552468425aa596f3365e"
+    },
+    {
+        "path": "authors/elizabeth-davis/page",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/elizabeth-davis/page/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/elizabeth-davis/page/2/index.html",
+        "type": "file",
+        "md5": "b4f20396d85376688133ecfd9a0d281a"
+    },
+    {
+        "path": "burberry-goddess-release-date-anticipating-the-next-iconic-fragrance",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/burberry-goddess-release-date-anticipating-the-next-iconic-fragrance/index.html",
+        "type": "file",
+        "md5": "e66b69bd2130dd92d09c3220a9b08c9f"
+    },
+    {
+        "path": "feed.json",
+        "type": "file",
+        "md5": "77e8283f2326287e7eb0ad223bb93da1"
+    },
+    {
+        "path": "feed.xml",
+        "type": "file",
+        "md5": "0ead17dd57f206543c663e3e7a8cb6ad"
+    },
+    {
+        "path": "index.html",
+        "type": "file",
+        "md5": "0ced48581b379650b1ff2c657daf6573"
+    },
+    {
+        "path": "jean-paul-gaultier-paradise-garden-a-fragrance-journey-into-floral-bliss",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/jean-paul-gaultier-paradise-garden-a-fragrance-journey-into-floral-bliss/index.html",
+        "type": "file",
+        "md5": "5c2de8029d9d386d4ed888715c700b1a"
+    },
+    {
+        "path": "media",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/1",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/1/Best-Montale-Fragrances.webp",
+        "type": "file",
+        "md5": "d1813b0c1d627ade8f734921dd3108f6"
+    },
+    {
+        "path": "media/posts/1/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/1/responsive/Best-Montale-Fragrances-2xl.webp",
+        "type": "file",
+        "md5": "5bbdaa8021951846a4b0ae90ad96cd8e"
+    },
+    {
+        "path": "/media/posts/1/responsive/Best-Montale-Fragrances-lg.webp",
+        "type": "file",
+        "md5": "5bbdaa8021951846a4b0ae90ad96cd8e"
+    },
+    {
+        "path": "/media/posts/1/responsive/Best-Montale-Fragrances-md.webp",
+        "type": "file",
+        "md5": "5bbdaa8021951846a4b0ae90ad96cd8e"
+    },
+    {
+        "path": "/media/posts/1/responsive/Best-Montale-Fragrances-sm.webp",
+        "type": "file",
+        "md5": "d9fc718a9cba5c5724b4fab704748d9b"
+    },
+    {
+        "path": "/media/posts/1/responsive/Best-Montale-Fragrances-xl.webp",
+        "type": "file",
+        "md5": "5bbdaa8021951846a4b0ae90ad96cd8e"
+    },
+    {
+        "path": "/media/posts/1/responsive/Best-Montale-Fragrances-xs.webp",
+        "type": "file",
+        "md5": "5470388d906ca058b4145ed7bd7e760f"
+    },
+    {
+        "path": "media/posts/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/2/Best-Fragrances-for-Men.webp",
+        "type": "file",
+        "md5": "0a39b1081431bbe3225b867e95d61fee"
+    },
+    {
+        "path": "media/posts/2/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/2/responsive/Best-Fragrances-for-Men-2xl.webp",
+        "type": "file",
+        "md5": "ded6faa9f658dc298a6a3f66a69d733b"
+    },
+    {
+        "path": "/media/posts/2/responsive/Best-Fragrances-for-Men-lg.webp",
+        "type": "file",
+        "md5": "ded6faa9f658dc298a6a3f66a69d733b"
+    },
+    {
+        "path": "/media/posts/2/responsive/Best-Fragrances-for-Men-md.webp",
+        "type": "file",
+        "md5": "ded6faa9f658dc298a6a3f66a69d733b"
+    },
+    {
+        "path": "/media/posts/2/responsive/Best-Fragrances-for-Men-sm.webp",
+        "type": "file",
+        "md5": "73e44ee8049a59cb02370c8a9307bf9e"
+    },
+    {
+        "path": "/media/posts/2/responsive/Best-Fragrances-for-Men-xl.webp",
+        "type": "file",
+        "md5": "ded6faa9f658dc298a6a3f66a69d733b"
+    },
+    {
+        "path": "/media/posts/2/responsive/Best-Fragrances-for-Men-xs.webp",
+        "type": "file",
+        "md5": "8c42ceff809e2b58ee3081ea2f957f86"
+    },
+    {
+        "path": "media/posts/3",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/3/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/3/responsive/Victory47-Cologne-2xl.webp",
+        "type": "file",
+        "md5": "84b61d44d5a7922769792922d3fa230e"
+    },
+    {
+        "path": "/media/posts/3/responsive/Victory47-Cologne-lg.webp",
+        "type": "file",
+        "md5": "84b61d44d5a7922769792922d3fa230e"
+    },
+    {
+        "path": "/media/posts/3/responsive/Victory47-Cologne-md.webp",
+        "type": "file",
+        "md5": "8273a036b0dfd224c7c8c32664aea347"
+    },
+    {
+        "path": "/media/posts/3/responsive/Victory47-Cologne-sm.webp",
+        "type": "file",
+        "md5": "1e4c2d3970a83a20cd8bba93a5f92269"
+    },
+    {
+        "path": "/media/posts/3/responsive/Victory47-Cologne-xl.webp",
+        "type": "file",
+        "md5": "84b61d44d5a7922769792922d3fa230e"
+    },
+    {
+        "path": "/media/posts/3/responsive/Victory47-Cologne-xs.webp",
+        "type": "file",
+        "md5": "ab05128da4d4f590ab58c1ab700a81e8"
+    },
+    {
+        "path": "/media/posts/3/Victory47-Cologne.webp",
+        "type": "file",
+        "md5": "2459a24f171c3be5ec833e6a20a1aa99"
+    },
+    {
+        "path": "media/posts/4",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/4/burberry-goddess-release-date-perfume.jpg",
+        "type": "file",
+        "md5": "6294c6a71a0d158663c678d64df310e1"
+    },
+    {
+        "path": "media/posts/4/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/4/responsive/burberry-goddess-release-date-perfume-2xl.jpg",
+        "type": "file",
+        "md5": "4c3e7c2a498f2d74de06d2169058281a"
+    },
+    {
+        "path": "/media/posts/4/responsive/burberry-goddess-release-date-perfume-lg.jpg",
+        "type": "file",
+        "md5": "4c3e7c2a498f2d74de06d2169058281a"
+    },
+    {
+        "path": "/media/posts/4/responsive/burberry-goddess-release-date-perfume-md.jpg",
+        "type": "file",
+        "md5": "4c3e7c2a498f2d74de06d2169058281a"
+    },
+    {
+        "path": "/media/posts/4/responsive/burberry-goddess-release-date-perfume-sm.jpg",
+        "type": "file",
+        "md5": "4c3e7c2a498f2d74de06d2169058281a"
+    },
+    {
+        "path": "/media/posts/4/responsive/burberry-goddess-release-date-perfume-xl.jpg",
+        "type": "file",
+        "md5": "4c3e7c2a498f2d74de06d2169058281a"
+    },
+    {
+        "path": "/media/posts/4/responsive/burberry-goddess-release-date-perfume-xs.jpg",
+        "type": "file",
+        "md5": "4c3e7c2a498f2d74de06d2169058281a"
+    },
+    {
+        "path": "media/posts/5",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/5/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/5/responsive/ysl-libre-intense-2xl.jpeg",
+        "type": "file",
+        "md5": "f2acca38b6daa367de013b175a183ae2"
+    },
+    {
+        "path": "/media/posts/5/responsive/ysl-libre-intense-lg.jpeg",
+        "type": "file",
+        "md5": "f2acca38b6daa367de013b175a183ae2"
+    },
+    {
+        "path": "/media/posts/5/responsive/ysl-libre-intense-md.jpeg",
+        "type": "file",
+        "md5": "f2acca38b6daa367de013b175a183ae2"
+    },
+    {
+        "path": "/media/posts/5/responsive/ysl-libre-intense-sm.jpeg",
+        "type": "file",
+        "md5": "f2acca38b6daa367de013b175a183ae2"
+    },
+    {
+        "path": "/media/posts/5/responsive/ysl-libre-intense-xl.jpeg",
+        "type": "file",
+        "md5": "f2acca38b6daa367de013b175a183ae2"
+    },
+    {
+        "path": "/media/posts/5/responsive/ysl-libre-intense-xs.jpeg",
+        "type": "file",
+        "md5": "4efc79f0b3ecc2affb7318b35a8f9500"
+    },
+    {
+        "path": "/media/posts/5/ysl-libre-intense.jpeg",
+        "type": "file",
+        "md5": "c843c2c30bceca1ea57475e500b2e71f"
+    },
+    {
+        "path": "media/posts/6",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/6/most-popular-creed-cologne.webp",
+        "type": "file",
+        "md5": "95603ad1cf3c6d3e6019dcd9d2c3b7be"
+    },
+    {
+        "path": "media/posts/6/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/6/responsive/most-popular-creed-cologne-2xl.webp",
+        "type": "file",
+        "md5": "b9a45f07b2a10f58fcaf435f87203503"
+    },
+    {
+        "path": "/media/posts/6/responsive/most-popular-creed-cologne-lg.webp",
+        "type": "file",
+        "md5": "b9a45f07b2a10f58fcaf435f87203503"
+    },
+    {
+        "path": "/media/posts/6/responsive/most-popular-creed-cologne-md.webp",
+        "type": "file",
+        "md5": "b9a45f07b2a10f58fcaf435f87203503"
+    },
+    {
+        "path": "/media/posts/6/responsive/most-popular-creed-cologne-sm.webp",
+        "type": "file",
+        "md5": "b9a45f07b2a10f58fcaf435f87203503"
+    },
+    {
+        "path": "/media/posts/6/responsive/most-popular-creed-cologne-xl.webp",
+        "type": "file",
+        "md5": "b9a45f07b2a10f58fcaf435f87203503"
+    },
+    {
+        "path": "/media/posts/6/responsive/most-popular-creed-cologne-xs.webp",
+        "type": "file",
+        "md5": "6dc1e830076be0cb602ba54d0e770217"
+    },
+    {
+        "path": "media/posts/7",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/7/jean-paul-gaultier-paradise-garden.png",
+        "type": "file",
+        "md5": "6f6fe926a807366923bc9e51243c0b70"
+    },
+    {
+        "path": "media/posts/7/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/7/responsive/jean-paul-gaultier-paradise-garden-2xl.png",
+        "type": "file",
+        "md5": "e22f5fbd14df005b7028ae5b63d201f6"
+    },
+    {
+        "path": "/media/posts/7/responsive/jean-paul-gaultier-paradise-garden-lg.png",
+        "type": "file",
+        "md5": "e22f5fbd14df005b7028ae5b63d201f6"
+    },
+    {
+        "path": "/media/posts/7/responsive/jean-paul-gaultier-paradise-garden-md.png",
+        "type": "file",
+        "md5": "e22f5fbd14df005b7028ae5b63d201f6"
+    },
+    {
+        "path": "/media/posts/7/responsive/jean-paul-gaultier-paradise-garden-sm.png",
+        "type": "file",
+        "md5": "e22f5fbd14df005b7028ae5b63d201f6"
+    },
+    {
+        "path": "/media/posts/7/responsive/jean-paul-gaultier-paradise-garden-xl.png",
+        "type": "file",
+        "md5": "e22f5fbd14df005b7028ae5b63d201f6"
+    },
+    {
+        "path": "/media/posts/7/responsive/jean-paul-gaultier-paradise-garden-xs.png",
+        "type": "file",
+        "md5": "e22f5fbd14df005b7028ae5b63d201f6"
+    },
+    {
+        "path": "media/posts/8",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/8/acqua-di-parma.jpg",
+        "type": "file",
+        "md5": "2757657196506ee38844fbcc55f33249"
+    },
+    {
+        "path": "media/posts/8/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/8/responsive/acqua-di-parma-2xl.jpg",
+        "type": "file",
+        "md5": "b4df03cedeec8139307634676c2d7d14"
+    },
+    {
+        "path": "/media/posts/8/responsive/acqua-di-parma-lg.jpg",
+        "type": "file",
+        "md5": "9095f22b55c542f7efd5169b27320a36"
+    },
+    {
+        "path": "/media/posts/8/responsive/acqua-di-parma-md.jpg",
+        "type": "file",
+        "md5": "b8a66fab8fb7a33afca3268feffa2c36"
+    },
+    {
+        "path": "/media/posts/8/responsive/acqua-di-parma-sm.jpg",
+        "type": "file",
+        "md5": "4d8d68d92d60c29ca2e1a97ad495985f"
+    },
+    {
+        "path": "/media/posts/8/responsive/acqua-di-parma-xl.jpg",
+        "type": "file",
+        "md5": "b4df03cedeec8139307634676c2d7d14"
+    },
+    {
+        "path": "/media/posts/8/responsive/acqua-di-parma-xs.jpg",
+        "type": "file",
+        "md5": "c7b1c133f7b294d67b38c5c32474fe19"
+    },
+    {
+        "path": "media/posts/9",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/9/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/9/responsive/Sol-de-Janeiro-48-2xl.jpg",
+        "type": "file",
+        "md5": "0be447d993f0c7d3af670cffe28a34c0"
+    },
+    {
+        "path": "/media/posts/9/responsive/Sol-de-Janeiro-48-lg.jpg",
+        "type": "file",
+        "md5": "0be447d993f0c7d3af670cffe28a34c0"
+    },
+    {
+        "path": "/media/posts/9/responsive/Sol-de-Janeiro-48-md.jpg",
+        "type": "file",
+        "md5": "0be447d993f0c7d3af670cffe28a34c0"
+    },
+    {
+        "path": "/media/posts/9/responsive/Sol-de-Janeiro-48-sm.jpg",
+        "type": "file",
+        "md5": "0be447d993f0c7d3af670cffe28a34c0"
+    },
+    {
+        "path": "/media/posts/9/responsive/Sol-de-Janeiro-48-xl.jpg",
+        "type": "file",
+        "md5": "0be447d993f0c7d3af670cffe28a34c0"
+    },
+    {
+        "path": "/media/posts/9/responsive/Sol-de-Janeiro-48-xs.jpg",
+        "type": "file",
+        "md5": "0be447d993f0c7d3af670cffe28a34c0"
+    },
+    {
+        "path": "/media/posts/9/Sol-de-Janeiro-48.jpg",
+        "type": "file",
+        "md5": "9b5c7e88531d70272a11bcebd71ffb81"
+    },
+    {
+        "path": "media/website",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/A-collection-of-the-expensive-perfumes.jpg",
+        "type": "file",
+        "md5": "ac72b0b7e2b5c169e08f85cd877b592c"
+    },
+    {
+        "path": "/media/website/luxury-perfume.png",
+        "type": "file",
+        "md5": "420f570e511fdf5fa708906b62e2cef3"
+    },
+    {
+        "path": "media/website/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/responsive/A-collection-of-the-expensive-perfumes-2xl.jpg",
+        "type": "file",
+        "md5": "e37e1cd4480fa40d8da7e4022a42b33e"
+    },
+    {
+        "path": "/media/website/responsive/A-collection-of-the-expensive-perfumes-lg.jpg",
+        "type": "file",
+        "md5": "e37e1cd4480fa40d8da7e4022a42b33e"
+    },
+    {
+        "path": "/media/website/responsive/A-collection-of-the-expensive-perfumes-md.jpg",
+        "type": "file",
+        "md5": "5607d734e373d87df7d731f63fa3b59f"
+    },
+    {
+        "path": "/media/website/responsive/A-collection-of-the-expensive-perfumes-sm.jpg",
+        "type": "file",
+        "md5": "fb40139d229cf571f8966af391862b91"
+    },
+    {
+        "path": "/media/website/responsive/A-collection-of-the-expensive-perfumes-xl.jpg",
+        "type": "file",
+        "md5": "e37e1cd4480fa40d8da7e4022a42b33e"
+    },
+    {
+        "path": "/media/website/responsive/A-collection-of-the-expensive-perfumes-xs.jpg",
+        "type": "file",
+        "md5": "3519e7df52a31b44b12731e0abee39db"
+    },
+    {
+        "path": "/media/website/responsive/luxury-perfume-2xl.png",
+        "type": "file",
+        "md5": "a443b620d6531826445120fadbc90164"
+    },
+    {
+        "path": "/media/website/responsive/luxury-perfume-lg.png",
+        "type": "file",
+        "md5": "af600a281d7ed7262949e19b9b39034e"
+    },
+    {
+        "path": "/media/website/responsive/luxury-perfume-md.png",
+        "type": "file",
+        "md5": "c45601845904c0cd26ce1d03c47c1674"
+    },
+    {
+        "path": "/media/website/responsive/luxury-perfume-sm.png",
+        "type": "file",
+        "md5": "b68ac2624b1cc4b6acbfbd20d3e2462d"
+    },
+    {
+        "path": "/media/website/responsive/luxury-perfume-xl.png",
+        "type": "file",
+        "md5": "2d2ce9c650985a95f6595446ecab24c3"
+    },
+    {
+        "path": "/media/website/responsive/luxury-perfume-xs.png",
+        "type": "file",
+        "md5": "3fc1533d318299252efb2f4122629fad"
+    },
+    {
+        "path": "page",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "page/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/page/2/index.html",
+        "type": "file",
+        "md5": "e24783652d1d34e4f5fbf8d9c2145694"
+    },
+    {
+        "path": "robots.txt",
+        "type": "file",
+        "md5": "f2c6484191f872a1c64892aa2b7758c0"
+    },
+    {
+        "path": "sitemap.xml",
+        "type": "file",
+        "md5": "8db93e69f77f75787db6e2629412202f"
+    },
+    {
+        "path": "sitemap.xsl",
+        "type": "file",
+        "md5": "51a7bcec43fa1ef0366100d5c2edbe75"
+    },
+    {
+        "path": "sol-de-janeiro-48-a-luxurious-fragrance-experience",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/sol-de-janeiro-48-a-luxurious-fragrance-experience/index.html",
+        "type": "file",
+        "md5": "54863fb93ba9b3c0ea9ed50ab0a1ec58"
+    },
+    {
+        "path": "tags",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/index.html",
+        "type": "file",
+        "md5": "0be614e65385185cd9ce9123ef206073"
+    },
+    {
+        "path": "the-best-montale-fragrances-a-guide-to-opulent-scents",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/the-best-montale-fragrances-a-guide-to-opulent-scents/index.html",
+        "type": "file",
+        "md5": "d8f7793eac0b8b37380f3f66301dd00d"
+    },
+    {
+        "path": "the-most-complimented-cologne-a-guide-to-fragrances-that-turn-heads",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/the-most-complimented-cologne-a-guide-to-fragrances-that-turn-heads/index.html",
+        "type": "file",
+        "md5": "453d0f84e5ca0827879c48a4dc5a57cb"
+    },
+    {
+        "path": "the-most-popular-creed-cologne-a-deep-dive-into-timeless-fragrance",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/the-most-popular-creed-cologne-a-deep-dive-into-timeless-fragrance/index.html",
+        "type": "file",
+        "md5": "2d266613f96d2ff4425731cbae6ca6ad"
+    },
+    {
+        "path": "victory47-cologne-a-fragrance-for-the-bold-and-ambitious",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/victory47-cologne-a-fragrance-for-the-bold-and-ambitious/index.html",
+        "type": "file",
+        "md5": "d0e3e903c563da4811113cd1bfdd7d99"
+    },
+    {
+        "path": "ysl-libre-intense-notes-an-in-depth-exploration-of-a-captivating-fragrance",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/ysl-libre-intense-notes-an-in-depth-exploration-of-a-captivating-fragrance/index.html",
+        "type": "file",
+        "md5": "33616c89f564cc0a5965741ff4c72649"
+    }
+]
