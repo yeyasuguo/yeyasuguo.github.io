@@ -2,7 +2,17 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "2919586b6ebc77596526f1885be11be1"
+        "md5": "55e666ad3fa5368f2dadc8c42a0da0c4"
+    },
+    {
+        "path": "48-sol-de-janeiro-perfume-a-sensual-journey-into-brazilian-bliss",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/48-sol-de-janeiro-perfume-a-sensual-journey-into-brazilian-bliss/index.html",
+        "type": "file",
+        "md5": "d359a5f27729411c46ee45bd808b1fc5"
     },
     {
         "path": "acqua-di-parma-the-essence-of-italian-luxury-fragrance",
@@ -12,7 +22,7 @@
     {
         "path": "/acqua-di-parma-the-essence-of-italian-luxury-fragrance/index.html",
         "type": "file",
-        "md5": "476594dfc07df8157f764dfb4133bb21"
+        "md5": "a6e917878a486f1ddf242ecfa1c90a13"
     },
     {
         "path": "assets",
@@ -117,7 +127,7 @@
     {
         "path": "/authors/elizabeth-davis/index.html",
         "type": "file",
-        "md5": "40461b331a3e552468425aa596f3365e"
+        "md5": "467ae3548107e4c1989bf67a0633eccb"
     },
     {
         "path": "authors/elizabeth-davis/page",
@@ -132,7 +142,37 @@
     {
         "path": "/authors/elizabeth-davis/page/2/index.html",
         "type": "file",
-        "md5": "b4f20396d85376688133ecfd9a0d281a"
+        "md5": "331b2a6cf0d7f5fb6d1d1d7e2f94d926"
+    },
+    {
+        "path": "authors/elizabeth-davis/page/3",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/elizabeth-davis/page/3/index.html",
+        "type": "file",
+        "md5": "58d60517860f11154510970c2834b163"
+    },
+    {
+        "path": "authors/elizabeth-davis/page/4",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/elizabeth-davis/page/4/index.html",
+        "type": "file",
+        "md5": "2b2945af5bd5b653be85c9d5917233eb"
+    },
+    {
+        "path": "azzaro-wanted-perfume-a-bold-fragrance-for-the-modern-man",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/azzaro-wanted-perfume-a-bold-fragrance-for-the-modern-man/index.html",
+        "type": "file",
+        "md5": "bb6b809e3d9b8204f42cab6288e75d3f"
     },
     {
         "path": "burberry-goddess-release-date-anticipating-the-next-iconic-fragrance",
@@ -142,22 +182,52 @@
     {
         "path": "/burberry-goddess-release-date-anticipating-the-next-iconic-fragrance/index.html",
         "type": "file",
-        "md5": "e66b69bd2130dd92d09c3220a9b08c9f"
+        "md5": "849efd59e8fce4ea14f6a0b3a0197828"
+    },
+    {
+        "path": "chanel-allure-homme-sport-perfume-the-fragrance-for-the-active-and-sophisticated-man",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/chanel-allure-homme-sport-perfume-the-fragrance-for-the-active-and-sophisticated-man/index.html",
+        "type": "file",
+        "md5": "5a3bca2774eca56b0736b3cbf5d88115"
     },
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "77e8283f2326287e7eb0ad223bb93da1"
+        "md5": "48b3f2b9f2607eb3d6ea26711f0df44d"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "0ead17dd57f206543c663e3e7a8cb6ad"
+        "md5": "7c130d59c6e951023401b05ce28c7992"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "0ced48581b379650b1ff2c657daf6573"
+        "md5": "4c285ddc7217a4a5601debef15407605"
+    },
+    {
+        "path": "is-nautica-voyage-good-unveiling-the-allure-of-a-classic-mens-fragrance",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/is-nautica-voyage-good-unveiling-the-allure-of-a-classic-mens-fragrance/index.html",
+        "type": "file",
+        "md5": "e382fbcc0bfec9efa787d6db462b2df8"
+    },
+    {
+        "path": "iso-e-super-perfume-the-invisible-ingredient-that-changed-modern-fragrance",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/iso-e-super-perfume-the-invisible-ingredient-that-changed-modern-fragrance/index.html",
+        "type": "file",
+        "md5": "b168596888634a151251dca1f65d4fa2"
     },
     {
         "path": "jean-paul-gaultier-paradise-garden-a-fragrance-journey-into-floral-bliss",
@@ -167,7 +237,17 @@
     {
         "path": "/jean-paul-gaultier-paradise-garden-a-fragrance-journey-into-floral-bliss/index.html",
         "type": "file",
-        "md5": "5c2de8029d9d386d4ed888715c700b1a"
+        "md5": "7a8beb26379f7456c54b17e0505676ca"
+    },
+    {
+        "path": "jpg-le-beau-paradise-garden-perfume-a-captivating-fragrance-inspired-by-natures-beauty",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/jpg-le-beau-paradise-garden-perfume-a-captivating-fragrance-inspired-by-natures-beauty/index.html",
+        "type": "file",
+        "md5": "46ef177bcee33cc14f77c49513b1028d"
     },
     {
         "path": "media",
@@ -223,6 +303,456 @@
         "path": "/media/posts/1/responsive/Best-Montale-Fragrances-xs.webp",
         "type": "file",
         "md5": "5470388d906ca058b4145ed7bd7e760f"
+    },
+    {
+        "path": "media/posts/10",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/10/city-rhythm-miami.jpg",
+        "type": "file",
+        "md5": "ac4bb311a10267099e364a8d04b17441"
+    },
+    {
+        "path": "media/posts/10/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/10/responsive/city-rhythm-miami-2xl.jpg",
+        "type": "file",
+        "md5": "93d43fef17ab68d663efe501b5992f5d"
+    },
+    {
+        "path": "/media/posts/10/responsive/city-rhythm-miami-lg.jpg",
+        "type": "file",
+        "md5": "93d43fef17ab68d663efe501b5992f5d"
+    },
+    {
+        "path": "/media/posts/10/responsive/city-rhythm-miami-md.jpg",
+        "type": "file",
+        "md5": "93d43fef17ab68d663efe501b5992f5d"
+    },
+    {
+        "path": "/media/posts/10/responsive/city-rhythm-miami-sm.jpg",
+        "type": "file",
+        "md5": "93d43fef17ab68d663efe501b5992f5d"
+    },
+    {
+        "path": "/media/posts/10/responsive/city-rhythm-miami-xl.jpg",
+        "type": "file",
+        "md5": "93d43fef17ab68d663efe501b5992f5d"
+    },
+    {
+        "path": "/media/posts/10/responsive/city-rhythm-miami-xs.jpg",
+        "type": "file",
+        "md5": "3ef0dff5f0e38129aa7be166a7223106"
+    },
+    {
+        "path": "media/posts/11",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/11/azzaro-wanted.webp",
+        "type": "file",
+        "md5": "35ec6452c2e8abf379eeb366a7f6d421"
+    },
+    {
+        "path": "media/posts/11/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/11/responsive/azzaro-wanted-2xl.webp",
+        "type": "file",
+        "md5": "3c4d4a04498658ad93cd29176c9e253c"
+    },
+    {
+        "path": "/media/posts/11/responsive/azzaro-wanted-lg.webp",
+        "type": "file",
+        "md5": "3c4d4a04498658ad93cd29176c9e253c"
+    },
+    {
+        "path": "/media/posts/11/responsive/azzaro-wanted-md.webp",
+        "type": "file",
+        "md5": "63b2ee071e4507af1861ca82cacd06d7"
+    },
+    {
+        "path": "/media/posts/11/responsive/azzaro-wanted-sm.webp",
+        "type": "file",
+        "md5": "9bb1733f52568cfefdd7cd34578c3d1a"
+    },
+    {
+        "path": "/media/posts/11/responsive/azzaro-wanted-xl.webp",
+        "type": "file",
+        "md5": "3c4d4a04498658ad93cd29176c9e253c"
+    },
+    {
+        "path": "/media/posts/11/responsive/azzaro-wanted-xs.webp",
+        "type": "file",
+        "md5": "b23405e3f4cfcd960889ebe559a58e37"
+    },
+    {
+        "path": "media/posts/12",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/12/jpg-le-beau-paradise-garden.webp",
+        "type": "file",
+        "md5": "eeebec8f11c10fb47eaf64885d481e67"
+    },
+    {
+        "path": "media/posts/12/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/12/responsive/jpg-le-beau-paradise-garden-2xl.webp",
+        "type": "file",
+        "md5": "5a58b95806348c29d000cdc70e09d195"
+    },
+    {
+        "path": "/media/posts/12/responsive/jpg-le-beau-paradise-garden-lg.webp",
+        "type": "file",
+        "md5": "5a58b95806348c29d000cdc70e09d195"
+    },
+    {
+        "path": "/media/posts/12/responsive/jpg-le-beau-paradise-garden-md.webp",
+        "type": "file",
+        "md5": "5a58b95806348c29d000cdc70e09d195"
+    },
+    {
+        "path": "/media/posts/12/responsive/jpg-le-beau-paradise-garden-sm.webp",
+        "type": "file",
+        "md5": "5a58b95806348c29d000cdc70e09d195"
+    },
+    {
+        "path": "/media/posts/12/responsive/jpg-le-beau-paradise-garden-xl.webp",
+        "type": "file",
+        "md5": "5a58b95806348c29d000cdc70e09d195"
+    },
+    {
+        "path": "/media/posts/12/responsive/jpg-le-beau-paradise-garden-xs.webp",
+        "type": "file",
+        "md5": "5a58b95806348c29d000cdc70e09d195"
+    },
+    {
+        "path": "media/posts/13",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/13/prada-paradoxe-intense.webp",
+        "type": "file",
+        "md5": "7a310abe36a6dd9ebf99916213eab5e4"
+    },
+    {
+        "path": "media/posts/13/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/13/responsive/prada-paradoxe-intense-2xl.webp",
+        "type": "file",
+        "md5": "595a835123cd8bf5b89a323e02315238"
+    },
+    {
+        "path": "/media/posts/13/responsive/prada-paradoxe-intense-lg.webp",
+        "type": "file",
+        "md5": "595a835123cd8bf5b89a323e02315238"
+    },
+    {
+        "path": "/media/posts/13/responsive/prada-paradoxe-intense-md.webp",
+        "type": "file",
+        "md5": "dcc010ce2740cac2db3331962bf1c257"
+    },
+    {
+        "path": "/media/posts/13/responsive/prada-paradoxe-intense-sm.webp",
+        "type": "file",
+        "md5": "3594e428817a707bf85ac70235326467"
+    },
+    {
+        "path": "/media/posts/13/responsive/prada-paradoxe-intense-xl.webp",
+        "type": "file",
+        "md5": "595a835123cd8bf5b89a323e02315238"
+    },
+    {
+        "path": "/media/posts/13/responsive/prada-paradoxe-intense-xs.webp",
+        "type": "file",
+        "md5": "14e50cba3d3455289234c6fb070efb1f"
+    },
+    {
+        "path": "media/posts/14",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/14/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/14/responsive/ysl-y-cologne-2xl.webp",
+        "type": "file",
+        "md5": "04f4947af035da1551c3e06f43e5b1ac"
+    },
+    {
+        "path": "/media/posts/14/responsive/ysl-y-cologne-lg.webp",
+        "type": "file",
+        "md5": "04f4947af035da1551c3e06f43e5b1ac"
+    },
+    {
+        "path": "/media/posts/14/responsive/ysl-y-cologne-md.webp",
+        "type": "file",
+        "md5": "04f4947af035da1551c3e06f43e5b1ac"
+    },
+    {
+        "path": "/media/posts/14/responsive/ysl-y-cologne-sm.webp",
+        "type": "file",
+        "md5": "04f4947af035da1551c3e06f43e5b1ac"
+    },
+    {
+        "path": "/media/posts/14/responsive/ysl-y-cologne-xl.webp",
+        "type": "file",
+        "md5": "04f4947af035da1551c3e06f43e5b1ac"
+    },
+    {
+        "path": "/media/posts/14/responsive/ysl-y-cologne-xs.webp",
+        "type": "file",
+        "md5": "04f4947af035da1551c3e06f43e5b1ac"
+    },
+    {
+        "path": "/media/posts/14/ysl-y-cologne.webp",
+        "type": "file",
+        "md5": "22a361b1a3e00ba67c246ca913c6f52d"
+    },
+    {
+        "path": "media/posts/15",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/15/chanel-allure-homme-sport.webp",
+        "type": "file",
+        "md5": "4076dcdee482168fe9be72fd94809c56"
+    },
+    {
+        "path": "media/posts/15/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/15/responsive/chanel-allure-homme-sport-2xl.webp",
+        "type": "file",
+        "md5": "9be3bffaa1fe955baa084769680118bd"
+    },
+    {
+        "path": "/media/posts/15/responsive/chanel-allure-homme-sport-lg.webp",
+        "type": "file",
+        "md5": "9be3bffaa1fe955baa084769680118bd"
+    },
+    {
+        "path": "/media/posts/15/responsive/chanel-allure-homme-sport-md.webp",
+        "type": "file",
+        "md5": "9be3bffaa1fe955baa084769680118bd"
+    },
+    {
+        "path": "/media/posts/15/responsive/chanel-allure-homme-sport-sm.webp",
+        "type": "file",
+        "md5": "9be3bffaa1fe955baa084769680118bd"
+    },
+    {
+        "path": "/media/posts/15/responsive/chanel-allure-homme-sport-xl.webp",
+        "type": "file",
+        "md5": "9be3bffaa1fe955baa084769680118bd"
+    },
+    {
+        "path": "/media/posts/15/responsive/chanel-allure-homme-sport-xs.webp",
+        "type": "file",
+        "md5": "9be3bffaa1fe955baa084769680118bd"
+    },
+    {
+        "path": "media/posts/16",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/16/48-Sol-de-Janeiro.webp",
+        "type": "file",
+        "md5": "fe9bd5c4879d923666dbee3c27e307ce"
+    },
+    {
+        "path": "media/posts/16/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/16/responsive/48-Sol-de-Janeiro-2xl.webp",
+        "type": "file",
+        "md5": "7d540af61e1c19625e2457950a6f8345"
+    },
+    {
+        "path": "/media/posts/16/responsive/48-Sol-de-Janeiro-lg.webp",
+        "type": "file",
+        "md5": "7d540af61e1c19625e2457950a6f8345"
+    },
+    {
+        "path": "/media/posts/16/responsive/48-Sol-de-Janeiro-md.webp",
+        "type": "file",
+        "md5": "7d540af61e1c19625e2457950a6f8345"
+    },
+    {
+        "path": "/media/posts/16/responsive/48-Sol-de-Janeiro-sm.webp",
+        "type": "file",
+        "md5": "7d540af61e1c19625e2457950a6f8345"
+    },
+    {
+        "path": "/media/posts/16/responsive/48-Sol-de-Janeiro-xl.webp",
+        "type": "file",
+        "md5": "7d540af61e1c19625e2457950a6f8345"
+    },
+    {
+        "path": "/media/posts/16/responsive/48-Sol-de-Janeiro-xs.webp",
+        "type": "file",
+        "md5": "f373bc1e25747ff2d8e0adb11a6f0f4e"
+    },
+    {
+        "path": "media/posts/17",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/17/ISO-E-Super.webp",
+        "type": "file",
+        "md5": "443c7d64f11430bfdda0bb7ef2d50338"
+    },
+    {
+        "path": "media/posts/17/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/17/responsive/ISO-E-Super-2xl.webp",
+        "type": "file",
+        "md5": "3ecee060483cb9b5b8717aa7864d3152"
+    },
+    {
+        "path": "/media/posts/17/responsive/ISO-E-Super-lg.webp",
+        "type": "file",
+        "md5": "3ecee060483cb9b5b8717aa7864d3152"
+    },
+    {
+        "path": "/media/posts/17/responsive/ISO-E-Super-md.webp",
+        "type": "file",
+        "md5": "3ecee060483cb9b5b8717aa7864d3152"
+    },
+    {
+        "path": "/media/posts/17/responsive/ISO-E-Super-sm.webp",
+        "type": "file",
+        "md5": "326d63b30df6fa7e76355b3a22f969d6"
+    },
+    {
+        "path": "/media/posts/17/responsive/ISO-E-Super-xl.webp",
+        "type": "file",
+        "md5": "3ecee060483cb9b5b8717aa7864d3152"
+    },
+    {
+        "path": "/media/posts/17/responsive/ISO-E-Super-xs.webp",
+        "type": "file",
+        "md5": "53564658b94b08ed85e45e438dffd083"
+    },
+    {
+        "path": "media/posts/18",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/18/Red-Versace-Cologne.webp",
+        "type": "file",
+        "md5": "ff24de75b19d4ff0340c204cca4fa8d2"
+    },
+    {
+        "path": "media/posts/18/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/18/responsive/Red-Versace-Cologne-2xl.webp",
+        "type": "file",
+        "md5": "7f94295d954dcad672dfc915a272ae5f"
+    },
+    {
+        "path": "/media/posts/18/responsive/Red-Versace-Cologne-lg.webp",
+        "type": "file",
+        "md5": "7f94295d954dcad672dfc915a272ae5f"
+    },
+    {
+        "path": "/media/posts/18/responsive/Red-Versace-Cologne-md.webp",
+        "type": "file",
+        "md5": "7f94295d954dcad672dfc915a272ae5f"
+    },
+    {
+        "path": "/media/posts/18/responsive/Red-Versace-Cologne-sm.webp",
+        "type": "file",
+        "md5": "7f94295d954dcad672dfc915a272ae5f"
+    },
+    {
+        "path": "/media/posts/18/responsive/Red-Versace-Cologne-xl.webp",
+        "type": "file",
+        "md5": "7f94295d954dcad672dfc915a272ae5f"
+    },
+    {
+        "path": "/media/posts/18/responsive/Red-Versace-Cologne-xs.webp",
+        "type": "file",
+        "md5": "7f94295d954dcad672dfc915a272ae5f"
+    },
+    {
+        "path": "media/posts/19",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/19/Nautica-Voyage-For-Men-EDT.jpg",
+        "type": "file",
+        "md5": "173e95a857d4085c52d7fa7628693cd7"
+    },
+    {
+        "path": "media/posts/19/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/19/responsive/Nautica-Voyage-For-Men-EDT-2xl.jpg",
+        "type": "file",
+        "md5": "e3d036c28484720e999025761b0f42b4"
+    },
+    {
+        "path": "/media/posts/19/responsive/Nautica-Voyage-For-Men-EDT-lg.jpg",
+        "type": "file",
+        "md5": "e3d036c28484720e999025761b0f42b4"
+    },
+    {
+        "path": "/media/posts/19/responsive/Nautica-Voyage-For-Men-EDT-md.jpg",
+        "type": "file",
+        "md5": "e3d036c28484720e999025761b0f42b4"
+    },
+    {
+        "path": "/media/posts/19/responsive/Nautica-Voyage-For-Men-EDT-sm.jpg",
+        "type": "file",
+        "md5": "e3d036c28484720e999025761b0f42b4"
+    },
+    {
+        "path": "/media/posts/19/responsive/Nautica-Voyage-For-Men-EDT-xl.jpg",
+        "type": "file",
+        "md5": "e3d036c28484720e999025761b0f42b4"
+    },
+    {
+        "path": "/media/posts/19/responsive/Nautica-Voyage-For-Men-EDT-xs.jpg",
+        "type": "file",
+        "md5": "e3d036c28484720e999025761b0f42b4"
     },
     {
         "path": "media/posts/2",
@@ -677,7 +1207,47 @@
     {
         "path": "/page/2/index.html",
         "type": "file",
-        "md5": "e24783652d1d34e4f5fbf8d9c2145694"
+        "md5": "4b8917f80070c7e15e03f08d00b0fade"
+    },
+    {
+        "path": "page/3",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/page/3/index.html",
+        "type": "file",
+        "md5": "0dff8f0b8ad54fc182ab40e9b1b2116a"
+    },
+    {
+        "path": "page/4",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/page/4/index.html",
+        "type": "file",
+        "md5": "febefc6320772d60e613cf102fe8ffea"
+    },
+    {
+        "path": "prada-paradoxe-intense-perfume-a-bold-and-elegant-scent-for-the-modern-woman",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/prada-paradoxe-intense-perfume-a-bold-and-elegant-scent-for-the-modern-woman/index.html",
+        "type": "file",
+        "md5": "8bc3252251de8e044eb57c206c0d0a94"
+    },
+    {
+        "path": "red-versace-cologne-the-bold-scent-of-modern-masculinity",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/red-versace-cologne-the-bold-scent-of-modern-masculinity/index.html",
+        "type": "file",
+        "md5": "c73a0212e18b46260a2683ac549015dc"
     },
     {
         "path": "robots.txt",
@@ -687,7 +1257,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "8db93e69f77f75787db6e2629412202f"
+        "md5": "b1c2f9919a19b87effcea1d518343ec9"
     },
     {
         "path": "sitemap.xsl",
@@ -702,7 +1272,7 @@
     {
         "path": "/sol-de-janeiro-48-a-luxurious-fragrance-experience/index.html",
         "type": "file",
-        "md5": "54863fb93ba9b3c0ea9ed50ab0a1ec58"
+        "md5": "25997551b1f3eefdf93669fe431555d7"
     },
     {
         "path": "tags",
@@ -712,7 +1282,7 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "0be614e65385185cd9ce9123ef206073"
+        "md5": "7bce4ab909262ba4cfb039c4de985f90"
     },
     {
         "path": "the-best-montale-fragrances-a-guide-to-opulent-scents",
@@ -722,7 +1292,17 @@
     {
         "path": "/the-best-montale-fragrances-a-guide-to-opulent-scents/index.html",
         "type": "file",
-        "md5": "d8f7793eac0b8b37380f3f66301dd00d"
+        "md5": "8418886382bc52e5c9f920baabb065dc"
+    },
+    {
+        "path": "the-essence-of-city-rhythm-miami-perfume-a-fragrance-that-captures-the-pulse-of-miami",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/the-essence-of-city-rhythm-miami-perfume-a-fragrance-that-captures-the-pulse-of-miami/index.html",
+        "type": "file",
+        "md5": "740c10f3796b2f06ab99383854398080"
     },
     {
         "path": "the-most-complimented-cologne-a-guide-to-fragrances-that-turn-heads",
@@ -732,7 +1312,7 @@
     {
         "path": "/the-most-complimented-cologne-a-guide-to-fragrances-that-turn-heads/index.html",
         "type": "file",
-        "md5": "453d0f84e5ca0827879c48a4dc5a57cb"
+        "md5": "0e4f8146b592367cec611219650ad98e"
     },
     {
         "path": "the-most-popular-creed-cologne-a-deep-dive-into-timeless-fragrance",
@@ -742,7 +1322,7 @@
     {
         "path": "/the-most-popular-creed-cologne-a-deep-dive-into-timeless-fragrance/index.html",
         "type": "file",
-        "md5": "2d266613f96d2ff4425731cbae6ca6ad"
+        "md5": "faada52f7feeca56a0be13ce6ec2ca7b"
     },
     {
         "path": "victory47-cologne-a-fragrance-for-the-bold-and-ambitious",
@@ -752,7 +1332,7 @@
     {
         "path": "/victory47-cologne-a-fragrance-for-the-bold-and-ambitious/index.html",
         "type": "file",
-        "md5": "d0e3e903c563da4811113cd1bfdd7d99"
+        "md5": "bdc551c0f9d6ea167522bb3d36623d9b"
     },
     {
         "path": "ysl-libre-intense-notes-an-in-depth-exploration-of-a-captivating-fragrance",
@@ -762,6 +1342,16 @@
     {
         "path": "/ysl-libre-intense-notes-an-in-depth-exploration-of-a-captivating-fragrance/index.html",
         "type": "file",
-        "md5": "33616c89f564cc0a5965741ff4c72649"
+        "md5": "27ebf3b3add647b64004cf15e0f2d6c8"
+    },
+    {
+        "path": "ysl-y-cologne-perfume-the-ultimate-modern-fragrance-for-the-ambitious-man",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/ysl-y-cologne-perfume-the-ultimate-modern-fragrance-for-the-ambitious-man/index.html",
+        "type": "file",
+        "md5": "8cf31b245a8509838119db0edbfd852f"
     }
 ]
